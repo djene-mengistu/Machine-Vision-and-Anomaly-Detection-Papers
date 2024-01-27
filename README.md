@@ -29,7 +29,7 @@ XXX
 
 |Year|Title/Source|Journal/Conference|Code|
 |---|:---|:--|---|
-|2023|[FewSOME: One-Class Few Shot Anomaly Detection with Siamese Networks](https://openaccess.thecvf.com/content/CVPR2023W/VAND/papers/Belton_FewSOME_One-Class_Few_Shot_Anomaly_Detection_With_Siamese_Networks_CVPRW_2023_paper.pdf) |CVPR| <br>[Pytorch](https://github.com/niamhbelton/FewSOME)|
+|2023|[Deep learning-based automated steel surface defect segmentation: a comparative experimental study](https://link.springer.com/article/10.1007/s11042-023-15307-y) |Multimedia Tools and Applications| <br>[Pytorch](https://github.com/djene-mengistu/dseg_models)|
 
 **[⬆ back to top](#Machine-Vision-and-Anomaly-Detection-Papers)**
 
@@ -38,5 +38,6 @@ XXX
 
 |Year|Title/Source|Journal/Conference|Code|
 |---|:---|:--|---|
-|2023|[FewSOME: One-Class Few Shot Anomaly Detection with Siamese Networks](https://openaccess.thecvf.com/content/CVPR2023W/VAND/papers/Belton_FewSOME_One-Class_Few_Shot_Anomaly_Detection_With_Siamese_Networks_CVPRW_2023_paper.pdf) |CVPR| <br>[Pytorch](https://github.com/niamhbelton/FewSOME)|
+|2023|[Uncertainty-aware and dynamically-mixed pseudo-labels for semi-supervised defect segmentation](https://www.sciencedirect.com/science/article/abs/pii/S0166361523001458) |Computers in Industry| <br>[Pytorch](https://github.com/djene-mengistu/UAPS)|
+|2022|[Semisupervised Defect Segmentation With Pairwise Similarity Map Consistency and Ensemble-Based Cross Pseudolabels](https://ieeexplore.ieee.org/document/9994033) |IEEE TII| <br>[Pytorch](https://github.com/djene-mengistu/simEps)|
 **[⬆ back to top](#Machine-Vision-and-Anomaly-Detection-Papers)**
