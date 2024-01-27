@@ -15,7 +15,7 @@ The AI system will allow for an optimized production process, smart decisions, r
 Promoting this applications, this repositoty presents recent influential works related to deep learning applications on the area of anomaly detection, and other industrial machine vision applications.
 
 ## Industrial-anomaly-detection
-XXX
+Industrial anomaly detection is a critical component of modern industrial processes that involve the monitoring and analysis of data to identify abnormal behavior or deviations from expected patterns within industrial systems. ALthough various anomalies can be investigated, this repository presents deep learning application for surface anomaly detection for industrial products. Most of the methods presented uses image datasets to identify defective or anomolous parts of the product.
 
 |Year|Title/Source|Journal/Conference|Code|
 |---|:---|:--|---|
@@ -25,7 +25,7 @@ XXX
 **[⬆ back to top](#Machine-Vision-and-Anomaly-Detection-Papers)** 
 
 ## Classification-Detection-and-Segmentation-Models
-XXX
+Defect classification, detection, and segmentation are important tasks in various industries, particularly in manufacturing and quality control processes. These tasks involve identifying and categorizing defects in products or materials. Deep learning-based defect classification involves identifying types of defects in a product or simply identfying wether a product is defective or not. Detection involves localization and classification of defects. Defect segmetnation involves identification and localization of defects at a pixel-level. Recent state-of-the-art methods involving these taks are presented in this repository.
 
 |Year|Title/Source|Journal/Conference|Code|
 |---|:---|:--|---|
@@ -34,7 +34,7 @@ XXX
 **[⬆ back to top](#Machine-Vision-and-Anomaly-Detection-Papers)**
 
 ## Semi-supervised-and-weakly-supervised-learning
-XXX
+Semi-supervised learning and weakly supervised learning are two approaches to machine learning that address scenarios where obtaining fully labeled training data is challenging or expensive. Hence, this repository presents state-of-the-art semi-supervised and weakly-supervised methods proposed for the task of intelligent industrial inspection.
 
 |Year|Title/Source|Journal/Conference|Code|
 |---|:---|:--|---|
