@@ -4,7 +4,7 @@
 	- [1. Introduction and background ](#Introduction-and-background)
 	- [2. Industrial anomaly detection ](#Industrial-anomaly-detection)
  	- [3. Classification, Detection and Segmentation Models](#Classification-Detection-and-Segmentation-Models)
-	- [4. Semisupervised and weakly supervised learning](#Semisupervised-and-weakly-supervised-learning)
+	- [4. Semi-supervised and weakly-supervised learning](#Semisupervised-and-weakly-supervised-learning)
 
 
 ## Introduction-and-background
@@ -32,7 +32,7 @@ XXX
 |2023|[FewSOME: One-Class Few Shot Anomaly Detection with Siamese Networks](https://openaccess.thecvf.com/content/CVPR2023W/VAND/papers/Belton_FewSOME_One-Class_Few_Shot_Anomaly_Detection_With_Siamese_Networks_CVPRW_2023_paper.pdf) |CVPR| <br>[Pytorch](https://github.com/niamhbelton/FewSOME)|
 **[⬆ back to top](#Machine-Vision-and-Anomaly-Detection-Papers)**
 
-## Semisupervised-and-weakly-supervised-learning
+## Semi-supervised-and-weakly-supervised-learning
 XXX
 |Year|Title|Journal/Conference|Code|
 |---|:---|:--|---|
