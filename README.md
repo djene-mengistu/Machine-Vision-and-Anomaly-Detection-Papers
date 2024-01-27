@@ -15,17 +15,18 @@ The AI system will allow for an optimized production process, smart decisions, r
 Promoting this applications, this repositoty presents recent influential works related to deep learning applications on the area of anomaly detection, and other industrial machine vision applications.
 
 ## Industrial-anomaly-detection
-Industrial anomaly detection is a critical component of modern industrial processes that involve the monitoring and analysis of data to identify abnormal behavior or deviations from expected patterns within industrial systems. ALthough various anomalies can be investigated, this repository presents deep learning application for surface anomaly detection for industrial products. Most of the methods presented uses image datasets to identify defective or anomolous parts of the product.
+Industrial anomaly detection is a critical component of modern industrial processes that involve the monitoring and analysis of data to identify abnormal behavior or deviations from expected patterns within industrial systems. Although various anomalies can be investigated, this repository presents deep learning application for surface anomaly detection for industrial products. Most of the methods presented uses image datasets to identify defective or anomolous parts of the product.
 
 |Year|Title/Source|Journal/Conference|Code|
 |---|:---|:--|---|
 |2023|[FewSOME: One-Class Few Shot Anomaly Detection with Siamese Networks](https://openaccess.thecvf.com/content/CVPR2023W/VAND/papers/Belton_FewSOME_One-Class_Few_Shot_Anomaly_Detection_With_Siamese_Networks_CVPRW_2023_paper.pdf) |CVPR| [Pytorch](https://github.com/niamhbelton/FewSOME)|
-|2022|[Towards Total Recall in Industrial Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2023W/VAND/papers/Belton_FewSOME_One-Class_Few_Shot_Anomaly_Detection_With_Siamese_Networks_CVPRW_2023_paper.pdf) |CVPR| [Pytorch](github.com/amazon-research/patchcore-inspection)|
 |2022|[SimpleNet: A Simple Network for Image Anomaly Detection and Localization](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_SimpleNet_A_Simple_Network_for_Image_Anomaly_Detection_and_Localization_CVPR_2023_paper.pdf) |CVPR| [Pytorch](https://github.com/DonaldRR/SimpleNet)|
+|2021|[Towards Total Recall in Industrial Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2023W/VAND/papers/Belton_FewSOME_One-Class_Few_Shot_Anomaly_Detection_With_Siamese_Networks_CVPRW_2023_paper.pdf) |CVPR| [Pytorch](github.com/amazon-research/patchcore-inspection)|
+
 **[⬆ back to top](#Machine-Vision-and-Anomaly-Detection-Papers)** 
 
 ## Classification-Detection-and-Segmentation-Models
-Defect classification, detection, and segmentation are important tasks in various industries, particularly in manufacturing and quality control processes. These tasks involve identifying and categorizing defects in products or materials. Deep learning-based defect classification involves identifying types of defects in a product or simply identfying wether a product is defective or not. Detection involves localization and classification of defects. Defect segmetnation involves identification and localization of defects at a pixel-level. Recent state-of-the-art methods involving these taks are presented in this repository.
+Defect classification, detection, and segmentation are important tasks in various industries, particularly in manufacturing and quality control processes. These tasks involve identifying and categorizing defects in products or materials. Deep learning-based defect classification involves identifying types of defects in a product or simply identifying wether a product is defective or not. Detection involves localization and classification of defects, while defect segmetnation involves identification and localization of defects at a pixel-level. Recent state-of-the-art methods involving these taks are presented in this repository.
 
 |Year|Title/Source|Journal/Conference|Code|
 |---|:---|:--|---|
