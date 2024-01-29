@@ -31,6 +31,16 @@ Defect classification, detection, and segmentation are important tasks in variou
 |Year|Title/Source|Journal/Conference|Code|
 |---|:---|:--|---|
 |2023|[Deep learning-based automated steel surface defect segmentation: a comparative experimental study](https://link.springer.com/article/10.1007/s11042-023-15307-y) |Multimedia Tools and Applications| <br>[Pytorch](https://github.com/djene-mengistu/dseg_models)|
+|2023|[Deep CNN-based visual defect detection: Survey of current literature](https://www.sciencedirect.com/science/article/abs/pii/S0166361523000611) |Computers in Industry| <br>Not available|
+|2023|[Process parameter effects estimation and surface quality prediction for selective laser melting empowered by Bayes optimized soft attention mechanism-enhanced transfer learning](https://www.sciencedirect.com/science/article/abs/pii/S0166361523002166) |Computers in Industry| <br>Not available|
+|2023|[WaferSegClassNet - A light-weight network for classification and segmentation of semiconductor wafer defects](https://www.sciencedirect.com/science/article/abs/pii/S0166361522001178) |Computers in Industry| <br>Not available|
+|2023|[Automatic Defect Classification Using Semi-Supervised Learning With Defect Localization](https://ieeexplore.ieee.org/document/10129970) |IEEE Transactions on Semiconductor Manufacturing| <br>Not available|
+|2023|[Spatial Attention Enhanced Wafer Defect Classification Algorithm for Tiny Defects](https://ieeexplore.ieee.org/document/10367417) |IEEE ICAIT| <br>Not available|
+|2022|[Deep Adversarial Data Augmentation for Fabric Defect Classification With Scarce Defect Data](https://ieeexplore.ieee.org/document/9805666) |IEEE Transactions on Instrumentation and Measurement| <br>Not available|
+|2022|[Fabric defect classification using prototypical network of few-shot learning algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0166361522000239) |Computers in Industry| <br>Not available|
+|2022|[A systemic comparison between using augmented data and synthetic data as means of enhancing wafermap defect classification](https://www.sciencedirect.com/science/article/abs/pii/S0166361522002056) |Computers in Industry| <br>Not available|
+|2021|[Improvement of Multi-Lines Bridge Defect Classification by Hierarchical Architecture in Artificial Intelligence Automatic Defect Classification]( https://ieeexplore.ieee.org/document/9419865) |IEEE Transactions on Semiconductor Manufacturing | <br>Not available|
+|2021|[Improvement of Multi-Lines Bridge Defect Classification by Hierarchical Architecture in Artificial Intelligence Automatic Defect Classification]( https://ieeexplore.ieee.org/document/9419865) |IEEE Transactions on Semiconductor Manufacturing | <br>Not available|
 
 **[⬆ back to top](#Machine-Vision-and-Anomaly-Detection-Papers)**
 
@@ -41,4 +51,6 @@ Semi-supervised learning and weakly supervised learning are two approaches to ma
 |---|:---|:--|---|
 |2023|[Uncertainty-aware and dynamically-mixed pseudo-labels for semi-supervised defect segmentation](https://www.sciencedirect.com/science/article/abs/pii/S0166361523001458) |Computers in Industry| <br>[Pytorch](https://github.com/djene-mengistu/UAPS)|
 |2022|[Semisupervised Defect Segmentation With Pairwise Similarity Map Consistency and Ensemble-Based Cross Pseudolabels](https://ieeexplore.ieee.org/document/9994033) |IEEE TII| <br>[Pytorch](https://github.com/djene-mengistu/simEps)|
+|2019|[Unsupervised weld defect classification in radiographic images using multivariate generalized Gaussian mixture model with exact computation of mean and shape parameters](https://www.sciencedirect.com/science/article/abs/pii/S0166361518305967) |Computers in Industry| <br>Not available|
+
 **[⬆ back to top](#Machine-Vision-and-Anomaly-Detection-Papers)**
