@@ -20,6 +20,7 @@ Industrial anomaly detection is a critical component of modern industrial proces
 |Year|Title/Source|Journal/Conference|Code|
 |---|:---|:--|---|
 |2023|[FewSOME: One-Class Few Shot Anomaly Detection with Siamese Networks](https://openaccess.thecvf.com/content/CVPR2023W/VAND/papers/Belton_FewSOME_One-Class_Few_Shot_Anomaly_Detection_With_Siamese_Networks_CVPRW_2023_paper.pdf) |CVPR| [Pytorch](https://github.com/niamhbelton/FewSOME)|
+|2023|[A deep convolutional network combining layerwise images and defect parameter vectors for laser powder bed fusion process anomalies classification](https://link.springer.com/article/10.1007/s10845-023-02183-4) |Journal of Intelligent Manufacturing|Not available|
 |2022|[SimpleNet: A Simple Network for Image Anomaly Detection and Localization](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_SimpleNet_A_Simple_Network_for_Image_Anomaly_Detection_and_Localization_CVPR_2023_paper.pdf) |CVPR| [Pytorch](https://github.com/DonaldRR/SimpleNet)|
 |2021|[Towards Total Recall in Industrial Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2023W/VAND/papers/Belton_FewSOME_One-Class_Few_Shot_Anomaly_Detection_With_Siamese_Networks_CVPRW_2023_paper.pdf) |CVPR| [Pytorch](github.com/amazon-research/patchcore-inspection)|
 
@@ -35,11 +36,14 @@ Defect classification, detection, and segmentation are important tasks in variou
 |2023|[Process parameter effects estimation and surface quality prediction for selective laser melting empowered by Bayes optimized soft attention mechanism-enhanced transfer learning](https://www.sciencedirect.com/science/article/abs/pii/S0166361523002166) |Computers in Industry| <br>Not available|
 |2023|[WaferSegClassNet - A light-weight network for classification and segmentation of semiconductor wafer defects](https://www.sciencedirect.com/science/article/abs/pii/S0166361522001178) |Computers in Industry| <br>Not available|
 |2023|[Automatic Defect Classification Using Semi-Supervised Learning With Defect Localization](https://ieeexplore.ieee.org/document/10129970) |IEEE Transactions on Semiconductor Manufacturing| <br>Not available|
+|2023|[A novel micro-defect classification system based on attention enhancement](https://link.springer.com/article/10.1007/s10845-022-02064-2) |Journal of Intelligent Manufacturing| <br>Not available|
 |2023|[Spatial Attention Enhanced Wafer Defect Classification Algorithm for Tiny Defects](https://ieeexplore.ieee.org/document/10367417) |IEEE ICAIT| <br>Not available|
 |2022|[Deep Adversarial Data Augmentation for Fabric Defect Classification With Scarce Defect Data](https://ieeexplore.ieee.org/document/9805666) |IEEE Transactions on Instrumentation and Measurement| <br>Not available|
 |2022|[Fabric defect classification using prototypical network of few-shot learning algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0166361522000239) |Computers in Industry| <br>Not available|
+|2022|[Automated steel surface defect detection and classification using a new deep learning-based approach](https://link.springer.com/article/10.1007/s00521-022-08112-5) |Journal of Intelligent Manufacturing| <br>Not available|
+|2022|[Deep learning and machine learning neural network approaches for multi class leather texture defect classification and segmentation](https://link.springer.com/article/10.1186/s42825-022-00080-9) |Journal of Intelligent Manufacturing| <br>Not available|
 |2022|[A systemic comparison between using augmented data and synthetic data as means of enhancing wafermap defect classification](https://www.sciencedirect.com/science/article/abs/pii/S0166361522002056) |Computers in Industry| <br>Not available|
-|2021|[Improvement of Multi-Lines Bridge Defect Classification by Hierarchical Architecture in Artificial Intelligence Automatic Defect Classification]( https://ieeexplore.ieee.org/document/9419865) |IEEE Transactions on Semiconductor Manufacturing | <br>Not available|
+|2022|[Advances in machine learning and deep learning applications towards wafer map defect recognition and classification: a review](https://link.springer.com/article/10.1007/s10845-022-01994-1) |Journal of Intelligent Manufacturing| <br>Not available|
 |2021|[Improvement of Multi-Lines Bridge Defect Classification by Hierarchical Architecture in Artificial Intelligence Automatic Defect Classification]( https://ieeexplore.ieee.org/document/9419865) |IEEE Transactions on Semiconductor Manufacturing | <br>Not available|
 
 **[⬆ back to top](#Machine-Vision-and-Anomaly-Detection-Papers)**
@@ -50,6 +54,7 @@ Semi-supervised learning and weakly supervised learning are two approaches to ma
 |Year|Title/Source|Journal/Conference|Code|
 |---|:---|:--|---|
 |2023|[Uncertainty-aware and dynamically-mixed pseudo-labels for semi-supervised defect segmentation](https://www.sciencedirect.com/science/article/abs/pii/S0166361523001458) |Computers in Industry| <br>[Pytorch](https://github.com/djene-mengistu/UAPS)|
+|2022|[A knowledge distillation-based multi-scale relation-prototypical network for cross-domain few-shot defect classification](https://link.springer.com/article/10.1007/s10845-023-02080-w) |Journal of Intelligent Manufacturing| <br>Not available|
 |2022|[Semisupervised Defect Segmentation With Pairwise Similarity Map Consistency and Ensemble-Based Cross Pseudolabels](https://ieeexplore.ieee.org/document/9994033) |IEEE TII| <br>[Pytorch](https://github.com/djene-mengistu/simEps)|
 |2019|[Unsupervised weld defect classification in radiographic images using multivariate generalized Gaussian mixture model with exact computation of mean and shape parameters](https://www.sciencedirect.com/science/article/abs/pii/S0166361518305967) |Computers in Industry| <br>Not available|
 
