@@ -20,8 +20,12 @@ Industrial anomaly detection is a critical component of modern industrial proces
 
 |Year|Title/Source|Journal/Conference|Code|
 |---|:---|:--|---|
+|2024|[Deep Industrial Image Anomaly Detection: A Survey](https://link.springer.com/article/10.1007/s11633-023-1459-z) |Machine Intelligence Research| <br>Not available|
+|2024|[AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection](https://openreview.net/pdf?id=buC4E91xZE) |arxiv| [Pytorch](https://github.com/zqhang/AnomalyCLIP)|
 |2023|[Anomaly detection for industrial quality assurance: A comparative evaluation of unsupervised deep learning models](https://www.sciencedirect.com/science/article/pii/S0360835223000694) |Computers & Industrial Engineering| <br>Not available|
+|2023|[AnomalyGPT: Detecting Industrial Anomalies Using Large Vision-Language Models](https://arxiv.org/abs/2308.15366) |arxiv| [Pytorch](https://github.com/CASIA-IVA-Lab/AnomalyGPT)|
 |2023|[FewSOME: One-Class Few Shot Anomaly Detection with Siamese Networks](https://openaccess.thecvf.com/content/CVPR2023W/VAND/papers/Belton_FewSOME_One-Class_Few_Shot_Anomaly_Detection_With_Siamese_Networks_CVPRW_2023_paper.pdf) |CVPR| [Pytorch](https://github.com/niamhbelton/FewSOME)|
+|2023|[Prototypical Residual Networks for Anomaly Detection and Localization](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Prototypical_Residual_Networks_for_Anomaly_Detection_and_Localization_CVPR_2023_paper.pdf) |CVPR| Not available|
 |2023|[A deep convolutional network combining layerwise images and defect parameter vectors for laser powder bed fusion process anomalies classification](https://link.springer.com/article/10.1007/s10845-023-02183-4) |Journal of Intelligent Manufacturing|Not available|
 |2022|[SimpleNet: A Simple Network for Image Anomaly Detection and Localization](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_SimpleNet_A_Simple_Network_for_Image_Anomaly_Detection_and_Localization_CVPR_2023_paper.pdf) |CVPR| [Pytorch](https://github.com/DonaldRR/SimpleNet)|
 |2021|[Towards Total Recall in Industrial Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2023W/VAND/papers/Belton_FewSOME_One-Class_Few_Shot_Anomaly_Detection_With_Siamese_Networks_CVPRW_2023_paper.pdf) |CVPR| [Pytorch](github.com/amazon-research/patchcore-inspection)|
