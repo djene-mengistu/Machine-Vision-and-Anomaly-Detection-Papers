@@ -1,5 +1,5 @@
 **${\color{blue}------>Please-comeback-and-visit-the-updated-list-as-new-papers-are-added-everyday<------}$**
-# Machine-Vision-and-Anomaly-Detection-Papers
+# Machine-Vision-and-Anomaly-Detection-Papers-Codes
 
 - [Machine-Vision-and-Anomaly-Detection-Papers-Codes](#Machine-Vision-and-Anomaly-Detection-Papers)
 	- [1. Introduction and background ](#Introduction-and-background)
