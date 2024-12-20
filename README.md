@@ -20,6 +20,9 @@ Industrial anomaly detection is a critical component of modern industrial proces
 
 |Year|Title/Source|Journal/Conference|Code|
 |---|:---|:--|---|
+
+|2025|[A Unified Anomaly Synthesis Strategy with Gradient Ascent for Industrial Anomaly Detection and Localization](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08382.pdf) |ECCV| [Pytorch]( https://github.com/cqylunlun/glass)|
+|2024|[Hard-Normal Example-Aware Template Mutual Matching for Industrial Anomaly Detection](https://link.springer.com/article/10.1007/s11263-024-02323-0) |IJCV| [Pytorch](https://github.com/NarcissusEx/HETMM)|
 |2024|[Deep Industrial Image Anomaly Detection: A Survey](https://link.springer.com/article/10.1007/s11633-023-1459-z) |Machine Intelligence Research| <br>Not available|
 |2024|[AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection](https://openreview.net/pdf?id=buC4E91xZE) |arxiv| [Pytorch](https://github.com/zqhang/AnomalyCLIP)|
 |2023|[Anomaly detection for industrial quality assurance: A comparative evaluation of unsupervised deep learning models](https://www.sciencedirect.com/science/article/pii/S0360835223000694) |Computers & Industrial Engineering| <br>Not available|
