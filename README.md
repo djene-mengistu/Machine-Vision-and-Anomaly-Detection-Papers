@@ -1,7 +1,7 @@
 **${\color{blue}------>Please-comeback-and-visit-the-updated-list-as-new-papers-are-added-everyday<------}$**
 # Machine-Vision-and-Anomaly-Detection-Papers-Codes
 
-- [Machine-Vision-and-Anomaly-Detection-Papers-Codes](#Machine-Vision-and-Anomaly-Detection-Papers)
+- [Machine Vision and Anomaly Detection: Papers and Codes](#Machine-Vision-and-Anomaly-Detection-Papers-Codes)
 	- [1. Introduction and background ](#Introduction-and-background)
 	- [2. Industrial anomaly detection ](#Industrial-anomaly-detection)
  	- [3. Classification, Detection and Segmentation Models](#Classification-Detection-and-Segmentation-Models)
