@@ -84,6 +84,8 @@ Semi-supervised learning and weakly supervised learning are two approaches to ma
 
 |Year|Title/Source|Journal/Conference|Code|
 |---|:---|:--|---|
+|2026|[Saliency-Guided Transformer Attention With Pixel-Level Contrastive Learning for Weakly Supervised Defect Localization](https://ieeexplore.ieee.org/abstract/document/11354152) |IEEE TII| <br>[Pytorch](https://github.com/djene-mengistu/STAC)|
+|2024|[SAIT: Harnessing Sparse Annotations and Intrinsic Tasks for Semi-supervised Industrial Defect Segmentation](https://ieeexplore.ieee.org/document/10528905) |IEEE TII| <br> Not available|
 |2023|[Uncertainty-aware and dynamically-mixed pseudo-labels for semi-supervised defect segmentation](https://www.sciencedirect.com/science/article/abs/pii/S0166361523001458) |Computers in Industry| <br>[Pytorch](https://github.com/djene-mengistu/UAPS)|
 |2022|[A knowledge distillation-based multi-scale relation-prototypical network for cross-domain few-shot defect classification](https://link.springer.com/article/10.1007/s10845-023-02080-w) |Journal of Intelligent Manufacturing| <br>Not available|
 |2022|[Semisupervised Defect Segmentation With Pairwise Similarity Map Consistency and Ensemble-Based Cross Pseudolabels](https://ieeexplore.ieee.org/document/9994033) |IEEE TII| <br>[Pytorch](https://github.com/djene-mengistu/simEps)|
