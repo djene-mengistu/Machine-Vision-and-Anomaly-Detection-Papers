@@ -1,10 +1,27 @@
-# Machine-Vision-and-Anomaly-Detection-Papers-Codes
+# 🔥 Machine-Vision-and-Anomaly-Detection-Papers-Codes
 
-- [Machine Vision and Anomaly Detection: Papers and Codes](#Machine-Vision-and-Anomaly-Detection-Papers-Codes)
-	- [1. Introduction and background ](#Introduction-and-background)
-	- [2. Industrial anomaly detection ](#Industrial-anomaly-detection)
- 	- [3. Classification, Detection and Segmentation Models](#Classification-Detection-and-Segmentation-Models)
-	- [4. Semi-supervised and weakly-supervised learning](#Semisupervised-and-weakly-supervised-learning)
+> *A curated collection of state-of-the-art deep learning papers for industrial machine vision and anomaly detection*
+
+---
+
+## 📚 Table of Contents
+
+| # | Section | Description |
+|---|---------|-------------|
+| 1 | [📖 Introduction and Background](#introduction-and-background) | Overview of deep learning in intelligent manufacturing |
+| 2 | [🏭 Industrial Anomaly Detection](#industrial-anomaly-detection) | Surface defect detection & localization methods |
+| 3 | [🎯 Classification, Detection & Segmentation Models](#classification-detection-and-segmentation-models) | Defect classification, object detection & pixel-level segmentation |
+| 4 | [🔬 Semi-supervised & Weakly-supervised Learning](#semisupervised-and-weakly-supervised-learning) | Label-efficient learning for industrial inspection |
+
+---
+
+## 📍 Quick Navigation
+
+- 🔥 [Jump to Papers with Code](#industrial-anomaly-detection)
+- 📊 [View Statistics](#)
+- ⭐ [Star this repo](https://github.com/your-repo)
+
+---
 
 
 ## Introduction-and-background
