@@ -20,7 +20,7 @@
 
 - 🔥 [Jump to Papers and Codes](#industrial-anomaly-detection)
 - 📊 [View Statistics](#)
-- ⭐ [Star this repo](https://github.com/Machine-Vision-and-Anomaly-Detection-Papers)
+- ⭐ [Star this repo](https://github.com/djene-mengistu/Machine-Vision-and-Anomaly-Detection-Papers)
 
 ---
 
