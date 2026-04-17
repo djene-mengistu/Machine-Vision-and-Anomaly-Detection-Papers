@@ -2,6 +2,7 @@
 
 > *A curated collection of state-of-the-art deep learning papers for industrial machine vision and anomaly detection*
 
+**🔄 This repository is actively maintained — new papers added weekly.**
 ---
 
 ## 📚 Table of Contents
@@ -11,25 +12,31 @@
 | 1 | [📖 Introduction and Background](#introduction-and-background) | Overview of deep learning in intelligent manufacturing |
 | 2 | [🏭 Industrial Anomaly Detection](#industrial-anomaly-detection) | Surface defect detection & localization methods |
 | 3 | [🎯 Classification, Detection & Segmentation Models](#classification-detection-and-segmentation-models) | Defect classification, object detection & pixel-level segmentation |
-| 4 | [🔬 Semi-supervised & Weakly-supervised Learning](#semisupervised-and-weakly-supervised-learning) | Label-efficient learning for industrial inspection |
+| 4 | [🔬 Semi-supervised & Weakly-supervised Learning](#Semi-supervised-and-weakly-supervised-learning) | Label-efficient learning for industrial inspection |
 
 ---
 
 ## 📍 Quick Navigation
 
-- 🔥 [Jump to Papers with Code](#industrial-anomaly-detection)
+- 🔥 [Jump to Papers and Codes](#industrial-anomaly-detection)
 - 📊 [View Statistics](#)
-- ⭐ [Star this repo](https://github.com/your-repo)
+- ⭐ [Star this repo](https://github.com/Machine-Vision-and-Anomaly-Detection-Papers)
 
 ---
 
 
 ## Introduction-and-background
 
-This repository consists of recent state-of-the-art deep learning networks for industrial machine vision application. 
-The transformation of manufacturing system towards the intelligent manufacturing focuses on automation and the use of advanced technologies such as AI with robots and advanced machines for greater efficiency and precision. 
-The AI system will allow for an optimized production process, smart decisions, real-time information, preventive maintenance, and self-prognosis of the production processes. With availability of big data and advanced computing equipment, and technologies, the deep learning application has been one of the highly researched areas in the scientific world in the past few years. 
-Promoting this applications, this repositoty presents recent influential works related to deep learning applications on the area of anomaly detection, and other industrial machine vision applications.
+The fourth industrial revolution (Industry 4.0) has fundamentally transformed manufacturing systems toward **intelligent manufacturing** — where automation converges with artificial intelligence, robotics, and advanced machinery to achieve unprecedented efficiency and precision.
+
+Modern AI systems enable:
+- ⚡ **Optimized production processes** through real-time decision-making
+- 📡 **Real-time information** streaming from IoT-enabled production lines  
+- 🔧 **Predictive & preventive maintenance** reducing downtime by up to 50%
+- 🔮 **Self-prognosis** of production processes using digital twins
+- 🎯 **Zero-defect manufacturing** through AI-powered quality control
+
+---
 
 ## Industrial-anomaly-detection
 Industrial anomaly detection is a critical component of modern industrial processes that involve the monitoring and analysis of data to identify abnormal behavior or deviations from expected patterns within industrial systems. Although various anomalies can be investigated, this repository presents deep learning application for surface anomaly detection for industrial products. Most of the methods presented uses image datasets to identify defective or anomolous parts of the product.
