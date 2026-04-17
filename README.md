@@ -1,4 +1,3 @@
-**${\color{blue}------>Please-comeback-and-visit-the-updated-list-as-new-papers-are-added-everyday<------}$**
 # Machine-Vision-and-Anomaly-Detection-Papers-Codes
 
 - [Machine Vision and Anomaly Detection: Papers and Codes](#Machine-Vision-and-Anomaly-Detection-Papers-Codes)
