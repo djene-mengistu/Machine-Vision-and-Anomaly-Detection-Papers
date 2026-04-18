@@ -43,7 +43,19 @@ Industrial anomaly detection is a critical component of modern industrial proces
 
 |Year|Title/Source|Journal/Conference|Code|
 |---|:---|:--|---|
+|2026|[ADPretrain: Advancing Industrial Anomaly Detection via Anomaly Representation Pretraining](https://arxiv.org/abs/2511.05245) |NeurIPS| <br> [Pytorch](https://github.com/xcyao00/ADPretrain)|
+|2026|[FAST: Foreground-aware Diffusion with Accelerated Sampling Trajectory for Segmentation-oriented Anomaly Synthesis](https://arxiv.org/abs/2509.20295) |NeurIPS| <br> [Pytorch](https://anonymous.4open.science/r/NeurIPS-938/README1.md)|
+|2026|[AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection](https://arxiv.org/abs/2508.06203) |AAAI| <br> [Pytorch](https://github.com/CASIA-LMC-Lab/AnomalyMoE)|
+|2026|[AdaptCLIP: Adapting CLIP for Universal Visual Anomaly Detection](https://arxiv.org/abs/2505.09926) |AAAI| <br> [Pytorch](https://github.com/gaobb/AdaptCLIP)|
+|2026|[Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects](https://arxiv.org/abs/2507.07435) |AAAI| <br> [Pytorch](https://hustcyq.github.io/MiniShift-Simple3D/)|
+|2026|[MRAD: Zero-Shot Anomaly Detection with Memory-Driven Retrieval](https://arxiv.org/abs/2602.00522) |ICLR| <br> [Pytorch](https://github.com/CROVO1026/MRAD)|
+|2026|[Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors](https://arxiv.org/abs/2510.01934) |ICLR| <br> [Pytorch](https://github.com/ymxlzgy/FoundAD)|
+|2026|[CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection](https://arxiv.org/abs/2508.03447) |CVPR| <br> [Pytorch](https://github.com/cqylunlun/CoPS)|
+|2026|[Bidirectional Multimodal Prompt Learning with Scale-Aware Training for Few-Shot Multi-Class Anomaly Detection](https://arxiv.org/abs/2408.13516) |CVPR| <br> [Pytorch](https://github.com/YoojLee/AnoPLe)|
+|2026|[InvAD: Inversion-based Reconstruction-Free Anomaly Detection with Diffusion Models](https://arxiv.org/abs/2504.05662) |CVPR| <br> [Pytorch](https://github.com/SkyShunsuke/InversionAD)|
+|2026|[Towards an Incremental Unified Multimodal Anomaly Detection: Augmenting Multimodal Denoising From an Information Bottleneck Perspective](https://arxiv.org/pdf/2603.02629) |CVPR| <br> [Pytorch](https://github.com/longkaifang/IB-IUMAD)|
 |2025|[A Unified Anomaly Synthesis Strategy with Gradient Ascent for Industrial Anomaly Detection and Localization](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08382.pdf) |ECCV| <br> [Pytorch](https://github.com/cqylunlun/glass)|
+|2024|[CLIP-AD: A Language-Guided Staged Dual-Path Model for Zero-shot Anomaly Detection](https://arxiv.org/pdf/2311.00453) |Arxiv| <br> Not available|
 |2024|[Hard-Normal Example-Aware Template Mutual Matching for Industrial Anomaly Detection](https://link.springer.com/article/10.1007/s11263-024-02323-0) |IJCV| <br> [Pytorch](https://github.com/NarcissusEx/HETMM)|
 |2024|[Deep Industrial Image Anomaly Detection: A Survey](https://link.springer.com/article/10.1007/s11633-023-1459-z) |Machine Intelligence Research| <br> Not available|
 |2024|[AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection](https://openreview.net/pdf?id=buC4E91xZE) |arxiv|<br> [Pytorch](https://github.com/zqhang/AnomalyCLIP)|
